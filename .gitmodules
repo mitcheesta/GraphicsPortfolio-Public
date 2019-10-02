@@ -1,0 +1,3 @@
+[submodule "GraphicsPortfolio"]
+	path = GraphicsPortfolio
+	url = https://github.com/mitcheesta/GraphicsPortfolio.git
